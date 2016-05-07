@@ -1,0 +1,17 @@
+git提交代码命令：
+
+1.git add filename
+2.git commit -am your comment
+3.git push
+
+修改用户
+
+git config —-global user.name “”
+git config —-global user.email “”
+
+新建repository
+mkdir note
+cd note
+pwd
+显示当前目录
+git init Initialized empty Git repositorty in 当前目录
