@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shengzhong/Desktop/mac/android-pro/blog/libs/bsdiff.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb585d81386f5a9f60a2211899358c1230b185d">
+        <dex dex="/Users/shengzhong/Desktop/mac/android-pro/blog/build/intermediates/pre-dexed/debug/bsdiff-62f4cf711f4bab8300fc1a12f5e1e0d56d84e155.jar" />
+    </item>
+    <item
+        jar="/Users/shengzhong/Desktop/mac/android-pro/blog/libs/afinal.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="162b5c90db581fefe328cdcd0cddd1bb034a17ff">
+        <dex dex="/Users/shengzhong/Desktop/mac/android-pro/blog/build/intermediates/pre-dexed/debug/afinal-23ae626b02c487a411112d0c30902943997632bd.jar" />
+    </item>
+    <item
+        jar="/Users/shengzhong/Desktop/mac/android-pro/blog/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/shengzhong/Desktop/mac/android-pro/blog/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-be31c041dc1294bc303485b3b8770811588857d3.jar" />
+    </item>
+    <item
+        jar="/Users/shengzhong/Desktop/mac/android-pro/blog/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="/Users/shengzhong/Desktop/mac/android-pro/blog/build/intermediates/pre-dexed/debug/android-support-v4-2b19f45b315909a603082148d83ef43818efad6c.jar" />
+    </item>
+    <item
+        jar="/Users/shengzhong/Desktop/mac/android-pro/blog/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/shengzhong/Desktop/mac/android-pro/blog/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-d5c99144c06f3c6a1c9a62b6520552c89e5a374f.jar" />
+    </item>
+
+</items>

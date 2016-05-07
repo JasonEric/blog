@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#282828</color>
+    <color name="white">#fff</color>
+    <color name="gray">#AFAFAF</color>
+    <color name="black">#000</color>
+    <color name="orange">#CC6600</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="pink">#FFE6E6</color>
+    <color name="yellow">#F99503</color>
+    <color name="coffee">#6C5C50</color>
+    <color name="green">#4D8E2D</color>
+    <color name="bg_color">#ffededee</color>
+    <color name="transparent">#65000000</color>
+    <color name="bind_cancel_press">#ffd65284</color>
+    <color name="bind_cancel_press1">#ff7a7979</color>
+    <color name="bind_cancel">#ff999999</color>
+    <color name="expert_top_tv_normal">#ffef71a1</color>
+    <color name="black_color">#000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="lightgreen">#aeff39</color>
+    <color name="menu_item_text_color">#E60200</color>
+
+</resources>

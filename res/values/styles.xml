@@ -1,0 +1,44 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- 使用说明
+    	<progress 
+    	style="@style/customProgressBar"/>
+    -->
+    <style name="customProgressBar" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/custom_progress_bar</item>
+        <item name="android:layout_width">21dip</item>
+        <item name="android:layout_height">21dip</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    	<!--ListView公共样式-->
+	<style name="listview_style">
+		<item name="android:cacheColorHint">@color/bg_color</item>
+		<item name="android:divider">@drawable/line</item>
+		<item name="android:dividerHeight">1dip</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:fadingEdge">none</item>
+		<item name="android:fastScrollEnabled">true</item>
+		<item name="android:focusable">true</item>
+		<item name="android:layout_height">fill_parent</item>
+	</style>
+	 <style name="PopupAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/pop_enter</item>
+        <item name="android:windowExitAnimation">@anim/pop_exit</item>
+    </style>
+</resources>

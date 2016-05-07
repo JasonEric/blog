@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <com.example.view.ImageCycleView 
+        android:layout_height="200dp"
+        android:id="@+id/imageCycleView"
+        android:layout_width="fill_parent"
+        ></com.example.view.ImageCycleView>
+
+</LinearLayout>
+<!-- From: file:/Users/shengzhong/Desktop/mac/android-pro/blog/res/layout/activity_main2.xml -->
